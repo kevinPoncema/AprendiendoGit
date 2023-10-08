@@ -19,3 +19,8 @@ git log = muestra un registro de los ccomit
 git chrckout permite regresar a un estado anterior algunos archivos
 git reset regresa todo a un estado anterior 
 git diif nombreFichero permite ver las modificaciones en un fichero
+git reset --hard id = regresar a un comit y borrar todos los comit que esten despues de ese 
+nota en realidad no se borran sigen guardados y se puden recuperar usando el mismo comando y poniendo el id de que deseamos recuperar
+git reflow = muestra las operaciones que se han hecho y todos los comigs 
+git tag nombre = le da un nombre clave a los comit que se han hecho permite regresar a ese punto por esee nombre 
+git branch nombre = crea una nueva rama
