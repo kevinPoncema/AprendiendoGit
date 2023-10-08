@@ -1,4 +1,8 @@
-
 Una rama en Git es una copia del código principal que te permite trabajar en nuevas funciones sin afectar al código principal.
 git switch nombreDeRama = cambiarse a otra rama 
 git branch = muestra todas las ramas 
+git merge rama = mira si el contenido de las 2 ramas son compatibles 
+siendo la rama actual y la rama que se pasa como parametro
+giy branch -d nombreRama = elimina una rama
+git stache = guarda las cosas temporalmente sin embargo no hace un comit solo las guarda por un momento 
+
