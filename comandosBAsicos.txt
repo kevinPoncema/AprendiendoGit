@@ -15,3 +15,6 @@ comandos basicos del propio git
 git int = incia un repositorio en la carpeta actual
 git add + "noenre del ficher"  = agrega lo cambios del archivo a la lista
 git commit -m"comentario de la version" = guarda todos los cambios de la lista como una nueva version
+git reset = vuelve al comit anterior
+git checkout + nombre del archivo.extension = vuelve el archivo a su estado anterior 
+git alias.nombre "comanod" = permite crear un comando especila que realize el comnado que se le especifica
