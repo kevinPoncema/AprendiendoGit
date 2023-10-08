@@ -1,0 +1,4 @@
+git fetch = trae la lista de cambios y operaciones que se hicieron en el servidor
+git pull = trea lod cambios que tiene el servidor 
+git clone = clona el repositorio del servidor
+git push = subir cambios al repositorio 
