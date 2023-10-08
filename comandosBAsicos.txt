@@ -1,0 +1,17 @@
+hola en este documento se muestran algunos comandos 
+basicos de la terminal de git basch es decir comandosbasicos de linux
+
+cd = cambiar de directorio
+ls = listar directorios
+cd + .. = regresar al directorio anterior
+pwd = mostrar la ruta en la que te encuentras
+clear = limpiar consola 
+
+crear carpeta = mkdir "nombre de carpeta"
+borar carpetas y directorios = rm -r +"nombre"
+crar archivos = touch "nombre del fichero.extension"
+
+comandos basicos del propio git 
+git int = incia un repositorio en la carpeta actual
+git add + "noenre del ficher"  = agrega lo cambios del archivo a la lista
+git commit -m"comentario de la version" = guarda todos los cambios de la lista como una nueva version
